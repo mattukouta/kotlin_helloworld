@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "sample.kouta.helloworld"
+        applicationId "sample.kouta.myapplication"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

@@ -1,4 +1,4 @@
-package sample.kouta.helloworld
+package sample.kouta.myapplication
 
 import org.junit.Test
 

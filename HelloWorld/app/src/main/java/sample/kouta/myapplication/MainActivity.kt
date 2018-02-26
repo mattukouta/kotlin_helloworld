@@ -1,4 +1,4 @@
-package sample.kouta.helloworld
+package sample.kouta.myapplication
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
